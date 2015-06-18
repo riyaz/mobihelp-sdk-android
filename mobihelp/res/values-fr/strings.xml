@@ -1,6 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">FreshdeskSDK</string>
     <string name="mobihelp_activity_title_solution_list">Assistance</string>
     <string name="mobihelp_activity_title_tickets_list">Conversations</string>
     <string name="mobihelp_activity_title_feedback">Commencer une conversation</string>

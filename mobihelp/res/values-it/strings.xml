@@ -1,6 +1,5 @@
 <resources>
 
-    <string name="app_name">FreshdeskSDK</string>
     <string name="mobihelp_activity_title_solution_list">Supporto</string>
     <string name="mobihelp_activity_title_tickets_list">Conversazioni</string>
     <string name="mobihelp_activity_title_feedback">Avvia una conversazione</string>
